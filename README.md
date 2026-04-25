@@ -7,3 +7,7 @@
    
 ## Parallel , HPC 
 1. [Parallel Programming ](https://theartofhpc.com/pcse.html)
+
+## Partial Differential Equations
+1. Introduction to PDE and Hilbert Space Methods
+2. Linear and Non linear Waves
