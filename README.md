@@ -1,8 +1,10 @@
 # notes
 ## Tools and Programming Language 
 1. Julia , Fortran (https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf)
-2. Paraview (for Visualizations)
-3. Gmsh and Salome (For meshing and Geometry)
+2. Linux Commands , tldr (https://tldr.inbrowser.app/),  programming/Scripts (https://linuxcommand.org/index.php)
+3. Paraview (for Visualizations)
+4. Gmsh and Salome (For meshing and Geometry)
+   
 
 ## Parallel , HPC 
-1. (https://theartofhpc.com/)
+1. [Parallel Programming ](https://theartofhpc.com/pcse.html)
