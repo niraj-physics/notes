@@ -11,3 +11,8 @@
 ## Partial Differential Equations
 1. Introduction to PDE and Hilbert Space Methods
 2. Linear and Non linear Waves
+
+## Fluid Mechanics
+1. Kundu and Cohen
+2. Landau Lifshitz fluid Mechanics
+3. Turbulence Stefan Pope
