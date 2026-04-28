@@ -13,6 +13,9 @@
 2. Linear and Non linear Waves
    
 # Scientfic Computing /Computational Methods
+# Numerical Methods 
+1. Finite Difference Method by Randall Leveque
+2. Finite Volume Method by Randall Leqveque
 ## Tools and Programming Language 
 1. Julia , Fortran (https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf)
 2. Linux Commands , tldr (https://tldr.inbrowser.app/),  programming/Scripts (https://linuxcommand.org/index.php),
