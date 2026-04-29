@@ -13,24 +13,17 @@
 2. Linear and Non linear Waves
    
 # Scientfic Computing /Computational Methods
-## Numerical Methods 
-1. Exploring ODE by Trefthen , Driscoll and 
-1. Finite Difference Method by Randall Leveque
-2. Finite Volume Method by Randall Leqveque
-## Numerical Linear Algebra
-1. Numerical Linear Algebra Trefthen and Bau(Text book)
-   Refrences
-   1. Yusuf Saad Iterative Algorithm for sparse Linear system
-   2. Matrix Computation Golub and Van loan
-## Numerical Analysis
-1. Approximation Theory and Approximation Practice by Nick Trefthen
-## Tools and Programming Language 
-1. Julia , Fortran (https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf)
-2. Linux Commands , tldr (https://tldr.inbrowser.app/),  programming/Scripts (https://linuxcommand.org/index.php),
-3. Paraview (for Visualizations)
-4. Gmsh and Salome (For meshing and Geometry) 
-## Parallel , HPC 
-1. [Parallel Programming ](https://theartofhpc.com/pcse.html)
+1. ODE : Exploring ODE by Trefthen , Birkissson and Driscoll [Book Website](https://people.maths.ox.ac.uk/trefethen/ExplODE/)
+2. Finite Difference Method : Finite Difference Method by Randall Leveque
+2. Finite Volume Method : Finite Volume Method by Randall Leqveque
+4. Numerical Linear Algebra : Trefthen and Bau(Primary Text book) , Refrences : Yousef Saad  Iterative Method for Sparse Linear System [link](https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf), Matrix Computation by Golub and Van Loan
+5. Numerical Analysis : 1. Approximation Theory and Approximation Practice by Nick Trefthen
+6. Parallel Programming , HPC :  [Parallel Programming ](https://theartofhpc.com/pcse.html)
+7. Tools and Programming Language 
+   1. Julia , Fortran (https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf)
+   2. Linux Commands , tldr (https://tldr.inbrowser.app/),  programming/Scripts (https://linuxcommand.org/index.php),
+   3. Paraview (for Visualizations)
+   4. Gmsh and Salome (For meshing and Geometry) 
 
 
 
