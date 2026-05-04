@@ -20,11 +20,7 @@
 5. Numerical Analysis : 1. Approximation Theory and Approximation Practice by Nick Trefthen
 6. Parallel Programming , HPC :  [Parallel Programming ](https://theartofhpc.com/pcse.html)
 7. Tools and Programming Language 
-   1. Fortran (https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf)
-   2. C , Brian Kernighan and Dennis Ritchie 
-   3. Linux Commands , tldr (https://tldr.inbrowser.app/),  programming/Scripts (https://linuxcommand.org/index.php),
-   4. Gnuplot(2D) , Paraview (for Visualizations)
-   5. Gmsh and Salome (For meshing and Geometry) 
+    
 
 
 
