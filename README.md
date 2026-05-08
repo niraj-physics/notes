@@ -19,7 +19,7 @@
 2. Finite Volume Method : Finite Volume Method by Randall Leqveque
 4. Numerical Linear Algebra : Trefthen and Bau(Primary Text book) , Refrences : Yousef Saad  Iterative Method for Sparse Linear System [link](https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf), Matrix Computation by Golub and Van Loan
 5. Numerical Analysis : 1. Approximation Theory and Approximation Practice by Nick Trefthen
-6. Parallel Programming , HPC :  [Parallel Programming ](https://theartofhpc.com/pcse.html)
+6. Parallel Programming , HPC :  [Parallel Programming ](https://theartofhpc.com/pcse.html), OPENACC : [resources on Openacc homepage](https://www.openacc.org/resources), book :Programming Massively parallel processors 
 7. Tools and Programming Language 
    1. Fortran (https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf)
    2. C , Brian Kernighan and Dennis Ritchie 
