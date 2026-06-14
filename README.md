@@ -12,8 +12,7 @@
 1. Introduction to PDE and Hilbert Space Methods
 2. Linear and Non linear Waves GB Whitham
 3. Heinz-Otto Kreiss and Jens Lorenz , Inintial Boundary Value Problems and the Navier-Stokes Equations
-## Software 
-Maxima
+
    
 # Scientfic Computing /Computational Methods
 1. ODE : Exploring ODE by Trefthen , Birkissson and Driscoll [Book Website](https://people.maths.ox.ac.uk/trefethen/ExplODE/)
