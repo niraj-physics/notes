@@ -3,11 +3,17 @@
 1. Feynman Lectures on Physics
 2. Landau Lifshitz
 ## Fluid Mechanics
-1. Kundu and Cohen
-2. Landau Lifshitz fluid Mechanics
-3. Turbulence Flow  Stefan Pope
+1. Advanced Fluid Mechanics
+      - Prof Anubhav Roy Lectures on Advanced Fluid Mechanics 
+      - Landau Lifshitz Volume - 6
+
+2. Microhydrodynamics
+3. Turbulence
+   - Turbulent Flow by Stefan Pope
    
 # Analytical Methods
+## Mathematical Physics 
+   1. Method of Mathematical Physics by Arfken Weber and Harris 
 ## Partial Differential Equations
 1. Introduction to PDE and Hilbert Space Methods
 2. Linear and Non linear Waves GB Whitham
