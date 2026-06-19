@@ -32,7 +32,7 @@
    2. C , Brian Kernighan and Dennis Ritchie , The practice of programming by Kernighan and Pike , [coding style advice on linux kernel](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-style.rst)
    3. Linux Commands , tldr (https://tldr.inbrowser.app/),  programming/Scripts (https://linuxcommand.org/index.php),
    4. Gnuplot(2D) , Paraview (for Visualizations)
-   5. Gmsh and Salome (For meshing and Geometry) 
+   5. Gmsh (Meshing)
 
 
 
