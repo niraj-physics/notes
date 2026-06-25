@@ -7,8 +7,7 @@
       - Prof Anubhav Roy Lectures on Advanced Fluid Mechanics 
       - Landau Lifshitz Volume - 6
 
-2. Microhydrodynamics
-3. Turbulence
+2. Turbulence
    - Turbulent Flow by Stefan Pope
    
 # Analytical Methods
