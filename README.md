@@ -22,17 +22,16 @@
 # Scientfic Computing /Computational Methods
 1. ODE : Exploring ODE by Trefthen , Birkissson and Driscoll [Book Website](https://people.maths.ox.ac.uk/trefethen/ExplODE/)
 2. Finite Difference Method : Finite Difference Method by Randall Leveque
-2. Finite Volume Method : Finite Volume Method by Randall Leqveque
+2. Finite Volume Method : Finite Volume Method for Hyperbolic PDEs by Randall Leqveque
 4. Numerical Linear Algebra : Trefthen and Bau(Primary Text book) , Refrences : Yousef Saad  Iterative Method for Sparse Linear System [link](https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf), Matrix Computation by Golub and Van Loan
 5. Numerical Analysis : 1. Approximation Theory and Approximation Practice by Nick Trefthen
 6. Parallel Programming , HPC :  [Parallel Programming ](https://theartofhpc.com/pcse.html), OPENACC : [resources on Openacc homepage](https://openacc-best-practices-guide.readthedocs.io/en/latest/), book :Programming Massively parallel processors 
 7. Tools and Programming Language 
    1. Fortran (https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf)
    2. C , Brian Kernighan and Dennis Ritchie , The practice of programming by Kernighan and Pike , [coding style advice on linux kernel](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-style.rst)
-   3. Julia : High Level Programming Language 
-   4. Linux Commands , tldr (https://tldr.inbrowser.app/),  programming/Scripts (https://linuxcommand.org/index.php),
-   5. Paraview (for Visualizations)
-   6. Gmsh (Meshing)
+   3. Linux Commands , tldr (https://tldr.inbrowser.app/),  programming/Scripts (https://linuxcommand.org/index.php),
+   4. Gnuplot and Paraview (for Visualizations)
+   5. Gmsh (Meshing)
 
 
 
